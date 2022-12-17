@@ -303,6 +303,7 @@ footer li {
 video {
     margin-top: 3%;
     margin-bottom: 3%;
+    width: 250px;
 }
 
 .project-description h1 {
@@ -357,7 +358,7 @@ video {
     }
 
     video {
-        width: 80vh;
+        width: 450px;
     }
 }
 
